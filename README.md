@@ -4,19 +4,19 @@
 
 #### 功能演示
 
-![](https://github.com/yinzwii/gfes/show/login.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/login.png)
 
-![](https://github.com/yinzwii/gfes/show/home.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/home.png)
 
-![](https://github.com/yinzwii/gfes/show/user.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/user.png)
 
-![](https://github.com/yinzwii/gfes/show/userGroup.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/userGroup.png)
 
-![](https://github.com/yinzwii/gfes/show/file.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/file.png)
 
-![](https://github.com/yinzwii/gfes/show/log.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/log.png)
 
-![](https://github.com/yinzwii/gfes/show/pwd.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/pwd.png)
 
 
 
