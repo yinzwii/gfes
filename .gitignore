@@ -1,0 +1,7 @@
+bin/
+**/workspace.xml
+out
+.idea
+**/libcef.dll
+file
+.idea/
