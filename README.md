@@ -4,21 +4,23 @@
 
 #### 功能演示
 
-![](https://github.com/yinzwii/gfes/blob/master/show/login.png)
+![](.\show\login.png)
 
-![](https://github.com/yinzwii/gfes/blob/master/show/home.png)
+![](.\show\home.png)
 
-![](https://github.com/yinzwii/gfes/blob/master/show/user.png)
+![](.\show\user.png)
 
-![](https://github.com/yinzwii/gfes/blob/master/show/userGroup.png)
+![](.\show\userGroup.png)
 
-![](https://github.com/yinzwii/gfes/blob/master/show/file.png)
+![](.\show\file.png)
 
-![](https://github.com/yinzwii/gfes/blob/master/show/log.png)
+![](.\show\log.png)
 
-![](https://github.com/yinzwii/gfes/blob/master/show/pwd.png)
+![](.\show\pwd.png)
 
+#### 部署
 
+项目sql文件：搜索关注微信公众号“IT小老弟”，回复关键字“gfes"领取
 
 #### 特别鸣谢以下开源项目作者
 
