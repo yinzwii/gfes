@@ -4,19 +4,19 @@
 
 #### 功能演示
 
-![](.\show\login.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/login.png)
 
-![](.\show\home.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/home.png)
 
-![](.\show\user.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/user.png)
 
-![](.\show\userGroup.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/userGroup.png)
 
-![](.\show\file.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/file.png)
 
-![](.\show\log.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/log.png)
 
-![](.\show\pwd.png)
+![](https://github.com/yinzwii/gfes/blob/master/show/pwd.png)
 
 #### 部署
 
